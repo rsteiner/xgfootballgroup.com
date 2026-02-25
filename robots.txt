@@ -1,0 +1,6 @@
+# https://xgfootballgroup.com/robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap (add sitemap.xml when you have one)
+# Sitemap: https://xgfootballgroup.com/sitemap.xml
